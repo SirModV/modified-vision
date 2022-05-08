@@ -1,3 +1,4 @@
+/* universal selectors start----------------*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -26,7 +27,8 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* universal selectors start----------------*/
+/* header and nav start----------------*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,8 +49,8 @@ nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font: 20px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 }
 
 nav ul {
@@ -59,9 +61,8 @@ nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
-
-
+/* header and nav end----------------*/
+/* style hero----------*/
 .hero {
     height: 800px;
     width: 100%;
@@ -71,7 +72,7 @@ nav ul li {
     background-position: center;
     position: relative;
 }
-
+/* style hero end----------*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -88,19 +89,6 @@ nav ul li {
     margin-left: 20px;
 }
 
-.content-text {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content img {
-    max-height: 200px;
-}
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -112,10 +100,24 @@ nav ul li {
     background-color: #2589bd;
 }
 
+.content-text {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
 .benefit-text {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+.content img {
+    max-height: 200px;
+}
+
 
 .benefit-text img {
     display: block;
@@ -123,7 +125,7 @@ nav ul li {
     max-width: 150px;
 }
 
-
+/* footer start---------*/
 footer {
     padding: 30px;
     clear: both;
@@ -134,3 +136,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer end----------*/
