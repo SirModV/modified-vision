@@ -1,11 +1,8 @@
 # Code Refactoring
-## Horiseon Horiseon Social Solution Services</h2>
-### Purpose</h3><br>
+## Horiseon Horiseon Social Solution Services
+### Purpose
 Refactored the code to make to follow accessibility standards, to increase search engine optimization 
-### Link</h3>
-<a herf="/">Link</a>
-<br><br>
-<h3>Screenshot</h3>
+### Link
 
-### Screenshot</h3>
+### Screenshot
 <img src="./develop/assets/images/challenge1.png">
