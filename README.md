@@ -6,4 +6,4 @@ Refactored the code to make to follow accessibility standards, to increase searc
 <a herf="/">Link</a>
 <br><br>
 <h3>Screenshot</h3>
-<img src="develop/assets/images/challenge1.png">
+<img src="./develop/assets/images/challenge1.png">
