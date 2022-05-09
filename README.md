@@ -5,4 +5,5 @@ Refactored the code to make to follow accessibility standards, to increase searc
 ### Link
 
 ### Screenshot
-<img src="./develop/assets/images/challenge1.png">
+
+<img width="1680" alt="challenge1" src="https://user-images.githubusercontent.com/103627016/167324632-a565392c-1c7b-453d-9ce4-b7c41f4f082f.png">
